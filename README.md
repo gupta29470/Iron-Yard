@@ -22,5 +22,5 @@
 
  ## Splash Screen 
 <p align="center">
-    <img width="270" height="500" src="https://github.com/gupta29470/Iron-Yard/blob/master/outputs/splash%20screen.png">
+    <img width="270" height="400" src="https://github.com/gupta29470/Iron-Yard/blob/master/outputs/splash%20screen.png">
 </p>
