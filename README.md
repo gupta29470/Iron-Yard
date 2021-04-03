@@ -45,14 +45,14 @@
 <br/><br/>
 
 ## Login & Signup Screen
-<table>
+<table align="center">
   <tr>
     <td>Login Screen</td>
      <td>Signup Screen</td>
   </tr>
   <tr>
     <td><img src="outputs/login.png" width=200 height=400></td>
-    <td><img src="outputs/signup" width=200 height=400></td>
+    <td><img src="outputs/ignup.png" width=200 height=400></td>
   </tr>
  </table>
 
