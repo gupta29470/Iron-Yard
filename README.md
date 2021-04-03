@@ -16,6 +16,11 @@
 
 <br/><br/>
 
-> Watch a glimpse of **Iron Yard** in following video.
+> A glimpse of **Iron Yard** is shown in following screenshots.
 
 <br/><br/>
+
+ ## Splash Screen 
+<p align="center">
+    <img width="300" height="500" src="https://github.com/gupta29470/Iron-Yard/blob/master/outputs/splash%20screen.png">
+</p>
