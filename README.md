@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-> [Download App](https://github.com/gupta29470/Iron-Yard/blob/master/outputs/ironyard.apk)
+> [Download App](outputs/ironyard.apk)
 
 <br/><br/>
 
@@ -22,21 +22,23 @@
 
  ## Splash Screen 
 <p align="center">
-    <img width="200" height="400" src="https://github.com/gupta29470/Iron-Yard/blob/master/outputs/splash%20screen.png">
+    <img width="200" height="400" src="outputs/splash%20screen.png">
 </p>
 <br/><br/>
 
 ## Onboarding Screen 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Onboarding 1</td>
+     <td>Onboarding 2</td>
+     <td>Onboarding 3</td>
+      <td>Onboarding 4</td>
   </tr>
   <tr>
     <td><img src="outputs/onboarding1.png" width=270 height=480></td>
     <td><img src="outputs/onboarding2.png" width=270 height=480></td>
     <td><img src="outputs/onboarding3.png" width=270 height=480></td>
+       <td><img src="outputs/onboarding5.png" width=270 height=480></td>
   </tr>
  </table>
 <br/><br/>
