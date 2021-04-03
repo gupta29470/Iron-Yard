@@ -21,14 +21,9 @@
 <br/><br/>
 
  ## Splash Screen 
- <table>
-  <tr>
-    <td>Splash Screen</td>
-  </tr>
-  <tr>
-    <td><img src="outputs/splash%20screen.png" width=200 height=400></td>
-  </tr>
- </table>
+ <p align="center">
+    <img width="200" height="400" src="outputs/splash%20screen.png">
+</p>
 <br/><br/>
 
 ## Onboarding Screen 
