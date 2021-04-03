@@ -41,5 +41,18 @@
        <td><img src="outputs/onboarding5.png" width=200 height=400></td>
   </tr>
  </table>
+ 
 <br/><br/>
+
+## Login & Signup Screen
+<table>
+  <tr>
+    <td>Login Screen</td>
+     <td>Signup Screen</td>
+  </tr>
+  <tr>
+    <td><img src="outputs/login.png" width=200 height=400></td>
+    <td><img src="outputs/signup" width=200 height=400></td>
+  </tr>
+ </table>
 
