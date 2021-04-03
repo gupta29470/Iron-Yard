@@ -62,6 +62,35 @@
  <p align="center">
     <img width="200" height="400" src="outputs/home.png">
 </p>
+
+<br/><br/>
+
+## Cloth Selection Screen
+ <p align="center">
+    <img width="200" height="400" src="outputs/cloth%20selection.png">
+</p>
+
+<br/><br/>
+
+## Pickup and Delievery Date Screen
+ <p align="center">
+    <img width="200" height="400" src="outputs/pickup%20and%20delievery.png">
+</p>
+
+<br/><br/>
+
+## Confirm Order Screen
+ <p align="center">
+    <img width="200" height="400" src="outputs/order%20confirm.png">
+</p>
+
+<br/><br/>
+
+## Track Order Screen
+ <p align="center">
+    <img width="200" height="400" src="outputs/track%20order.png">
+</p>
+
 <br/><br/>
  
  
