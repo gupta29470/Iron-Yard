@@ -55,4 +55,14 @@
     <td><img src="outputs/signup.png" width=200 height=400></td>
   </tr>
  </table>
+ 
+ <br/><br/>
+ 
+ ## Home Screen 
+ <p align="center">
+    <img width="200" height="400" src="outputs/home.png">
+</p>
+<br/><br/>
+ 
+ 
 
