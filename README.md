@@ -21,9 +21,14 @@
 <br/><br/>
 
  ## Splash Screen 
-<p align="center">
-    <img width="200" height="400" src="outputs/splash%20screen.png">
-</p>
+ <table>
+  <tr>
+    <td>Splash Screen</td>
+  </tr>
+  <tr>
+    <td><img src="outputs/splash%20screen.png" width=200 height=400></td>
+  </tr>
+ </table>
 <br/><br/>
 
 ## Onboarding Screen 
@@ -35,10 +40,10 @@
       <td>Onboarding 4</td>
   </tr>
   <tr>
-    <td><img src="outputs/onboarding1.png" width=270 height=480></td>
-    <td><img src="outputs/onboarding2.png" width=270 height=480></td>
-    <td><img src="outputs/onboarding3.png" width=270 height=480></td>
-       <td><img src="outputs/onboarding5.png" width=270 height=480></td>
+    <td><img src="outputs/onboarding1.png" width=200 height=400></td>
+    <td><img src="outputs/onboarding2.png" width=200 height=400></td>
+    <td><img src="outputs/onboarding3.png" width=200 height=400></td>
+       <td><img src="outputs/onboarding5.png" width=200 height=400></td>
   </tr>
  </table>
 <br/><br/>
