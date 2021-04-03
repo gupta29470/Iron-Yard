@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td><img src="outputs/login.png" width=200 height=400></td>
-    <td><img src="outputs/ignup.png" width=200 height=400></td>
+    <td><img src="outputs/signup.png" width=200 height=400></td>
   </tr>
  </table>
 
